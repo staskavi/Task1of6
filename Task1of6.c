@@ -1,7 +1,8 @@
 #include<stdio.h>
-#define PI 3.14159
+
 int main()
 {
+	const float  PI = 3.14159;
 	float radius = 15;
 	float perimeter = 0;
 	float area = 0;
